@@ -10,4 +10,8 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 //this is the comment by PRABHNOOR //
 
+<<<<<<< HEAD
 ggjh
+=======
+//this comment is made in github//
+>>>>>>> 5cdfa61ae02657f4bace1375c0750b37f4ed3d07
